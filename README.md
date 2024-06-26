@@ -4,25 +4,25 @@
 
 A simple search functionality built with the MERN stack.
 
-## Description
+# Description
 
 This project features a single-page application (SPA) with a search box for querying user profile details stored in MongoDB. The results are displayed dynamically on the same page using React.
 
-## Technologies Used
+# Technologies Used
 
 - **MongoDB:** Database for storing user profile details
 - **Express.js:** Backend framework for handling API requests
 - **React:** Frontend library for building the user interface
 - **Node.js:** Runtime environment for executing JavaScript on the server
 
-## Features
+# Features
 
 - Search user profiles by keywords
 - Display search results dynamically
 - Case-sensitive search functionality
 - Minimum search keyword length is 3 characters
 
-## Setup
+# Setup
 
 1. **Clone the repository:**
    ```sh
@@ -46,12 +46,12 @@ This project features a single-page application (SPA) with a search box for quer
    npm start
    ```
 
-## Usage
+# Usage
 
 - Enter search keywords in the search box.
 - View the matching user profiles displayed below the search box.
 
-## Contributing
+# Contributing
 
 Contributions are welcome. Please submit a pull request.
 
