@@ -26,7 +26,7 @@ This project features a single-page application (SPA) with a search box for quer
 
 1. **Clone the repository:**
    ```sh
-   git clone <https://github.com/Ni3-Jadhav/Search_Functionality_MERN.git>
+   git clone https://github.com/Ni3-Jadhav/Search_Functionality_MERN.git
    ```
 2. **Navigate to the project directory:**
    ```sh
